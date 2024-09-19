@@ -8,4 +8,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/transmission:latest
-restcloud/restcloud-etl:V3.3
+restcloud/restcloud-etl:V3.6
