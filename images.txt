@@ -12,4 +12,4 @@ restcloud/restcloud-etl:V3.3
 yohe/nastool:2.9.1
 tailscale/tailscale:stable
 dreamacro/clash
-
+python:3.10-slim
