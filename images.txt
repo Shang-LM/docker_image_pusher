@@ -16,3 +16,4 @@ python:3.10-slim
 jc21/nginx-proxy-manager:latest
 nyanmisaka/jellyfin
 lovechen/embyserver
+ghcr.io/imagegenius/immich
