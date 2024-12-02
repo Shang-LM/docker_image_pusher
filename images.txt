@@ -19,3 +19,4 @@ lovechen/embyserver
 ghcr.io/imagegenius/immich
 redis
 tensorchord/pgvecto-rs:pg14-v0.2.0
+6053537/portainer-ce
