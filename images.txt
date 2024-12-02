@@ -17,3 +17,5 @@ jc21/nginx-proxy-manager:latest
 nyanmisaka/jellyfin
 lovechen/embyserver
 ghcr.io/imagegenius/immich
+redis
+tensorchord/pgvecto-rs:pg14-v0.2.0
