@@ -23,4 +23,3 @@ ghcr.io/immich-app/immich-machine-learning:release
 nextcloud
 asdlokj1qpi23/subconverter
 ghcr.io/open-webui/open-webui:main
-
